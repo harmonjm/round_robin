@@ -4,5 +4,4 @@
 
 == Credits
 
-Richard A. DeVenezia original js authon
-http://www.devenezia.com/downloads/round-robin/index.html
+{Richard A. DeVenezia original js author}[http://www.devenezia.com/downloads/round-robin/index.html]
